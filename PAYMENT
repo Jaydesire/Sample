@@ -1,2 +1,6 @@
 This is new function
+<<<<<<< HEAD
 Added GoogleAnalyrics
+=======
+added yandexMetrika
+>>>>>>> feature/metrika
